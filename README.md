@@ -1,8 +1,8 @@
 <p align="center">
   <a href="file:///Documents/1-Sites/GitHub/login.html#">
     <img 
-         src="[https://github.com/eng-juliane/login-netflix/blob/main/img/login-netflix.png](https://github.com/eng-juliane/login-pagina/blob/main/img/Captura%20de%20Tela%20(179).png)" 
-         alt="Interface Netflix" 
+         src="https://github.com/eng-juliane/login-netflix/blob/main/img/login-netflix.png" 
+         alt="Página de Login" 
     />
   </a>
   <br />
